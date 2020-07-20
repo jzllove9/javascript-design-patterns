@@ -1,0 +1,22 @@
+{
+  "name": "javascript-design-patterns",
+  "version": "1.0.0",
+  "description": "learning javascript design patterns by o'reilly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jzllove9/javascript-design-patterns.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jzllove9/javascript-design-patterns/issues"
+  },
+  "homepage": "https://github.com/jzllove9/javascript-design-patterns#readme",
+  "dependencies": {
+    "webpack": "^4.43.0"
+  }
+}
